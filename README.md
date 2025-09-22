@@ -10,9 +10,14 @@ Currently I lead [NextGIS](https://github.com/nextgis) branch in Southeastern Eu
 - [Minkowski dimension calculator](https://github.com/eduard-kazakov/minkowskiDimCalculator)
 - [Add legend labels to layer attributes](https://github.com/eduard-kazakov/add_legend_labels_to_layer_attributes)
 
-Proud to contribute to:
+🔧 Proud to contribute to:
 - famous [MOLUSCE](https://github.com/nextgis/qgis_molusce)
 - [QGIS](https://github.com/qgis/QGIS) (+ translations coordinator, events maker, popularizer)
 - [SSGP-toolbox](https://github.com/Dreamlone/SSGP-toolbox)
 
 📚 Scientific publications: https://ekazakov.me/papers/ or [Google scholar](https://scholar.google.com/citations?user=kUaRzT4AAAAJ)
+
+📫 Contact me: 
+- 🌍 Currently in Novi Sad, Serbia
+- 📨 Telegram: https://t.me/kazakov_e
+- 💼 LinkedIn: https://www.linkedin.com/in/eduard-kazakov-gis/
