@@ -3,7 +3,7 @@
 
 My mission is bridging engineering, research, education & management in geospatial.
 
-Currently I lead [NextGIS](https://github.com/nextgis) branch in Southeastern Europe.
+Currently I lead [NextGIS](https://github.com/nextgis) business development unit.
 
 🛠️ Public QGIS plugins:
 - [Attribute based clustering](https://github.com/eduard-kazakov/attributeBasedClustering)
